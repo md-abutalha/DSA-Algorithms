@@ -1,4 +1,4 @@
-public class BubbleShort {
+public class BubbleSort {
     public static void main(String[] args) {
         int nums[] = {5,2,4,7,9,6,1};
         int size = nums.length;
